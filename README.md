@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 
-- Currently working on research paper network graph 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- Currently building research paper network graph web service 
+
