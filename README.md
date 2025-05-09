@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-- Currently building research paper network graph web service 
+- Currently building a better Deep Research 
 
